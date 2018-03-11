@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fetcher/Fetcher.iml" filepath="$PROJECT_DIR$/Fetcher/Fetcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scenario/Scenario.iml" filepath="$PROJECT_DIR$/Scenario/Scenario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/californium-core/californium-core.iml" filepath="$PROJECT_DIR$/californium-core/californium-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared-libs/shared-libs.iml" filepath="$PROJECT_DIR$/shared-libs/shared-libs.iml" />
+    </modules>
+  </component>
+</project>

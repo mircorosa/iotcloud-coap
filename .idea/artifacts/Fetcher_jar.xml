@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fetcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fetcher_jar</output-path>
+    <root id="archive" name="Fetcher.jar">
+      <element id="module-output" name="Fetcher" />
+      <element id="module-output" name="californium-core" />
+      <element id="module-output" name="shared-libs" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jmdns-3.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/element-connector-1.0.0-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
